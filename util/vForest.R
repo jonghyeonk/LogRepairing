@@ -1,4 +1,6 @@
 
+# The copyright of proposed framework is owned by Dr. Jonghyeon Ko.(2021-09-06)
+# The framework is currently under review. 
 
 
 func.skip.r1 = function(x, start, end, variant_frame){
