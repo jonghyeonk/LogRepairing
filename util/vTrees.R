@@ -1,5 +1,11 @@
 
 
+# The copyright of proposed framework is owned by Dr. Jonghyeon Ko.(2021-09-06)
+# The framework is currently under review. 
+
+
+
+
 func.vTrees = function(clean_data){
   dat= clean_data
   actset  = unique(dat$Activity)
